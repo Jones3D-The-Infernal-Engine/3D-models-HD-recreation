@@ -4,6 +4,8 @@ It is possible to import new 3D models into the game, the only constraint (with 
 
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/3D-models-HD-recreation/main/J3D_minecar2.jpg?raw=true)
 
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/3D-models-HD-recreation/main/J3D_robots1.jpg?raw=true)
+
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/3D-models-HD-recreation/main/J3D_uw_animals1.jpg?raw=true)
 
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/3D-models-HD-recreation/main/J3D_volod1.jpg?raw=true)
